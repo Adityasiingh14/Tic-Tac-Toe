@@ -13,6 +13,10 @@ body{
     justify-content: center;
     align-items: center;
 }
+.heading{
+    margin-top: 2rem;
+    font-size: 3rem;
+}
 .game{
     height : 60vmin;
     width: 60vmin;
